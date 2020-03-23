@@ -1,0 +1,14 @@
+server:
+  port: 8686
+
+security:
+  jwt:
+    rsa-pub: '-----BEGIN PUBLIC KEY-----
+                           MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlnWggNf40mW5wqFwV/WU
+                           xmjfmD4QyyQMKKTzRup/Lgd9hhY0LDnpNA7s7wz9m/ObUgvxVZ24wzFESU4r+pxo
+                           m5Bjumc6vmC6vgzTbqOtQYSz2U/i3G2/M176XVsg8xtdckS6wYRbWYI+msXSwFTh
+                           /+HrEPLP7sVbTRzJNRut/eCDrh4hvWEHNqua7twAhajVCsuj1T1TwGfiiU6zVYo3
+                           Lz2j4gWmb1FiKt2YkKWIEVbqU2H2Xaf44AoBoc1LGMOgghOmdJ3Y4qVTF6t0wCna
+                           CHX49/A/1pH4ofyg+ZsoFIMxsJ3vbZJdiTIeXSvxaiCL8OpDSzndz2di+DUaKtyy
+                           ywIDAQAB
+                           -----END PUBLIC KEY-----'
